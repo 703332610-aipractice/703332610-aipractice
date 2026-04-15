@@ -1,8 +1,7 @@
 <div align="center">
 
-![Coding](https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80)
+![Random](https://loremflickr.com/800/400/coding,programming?random=1)
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
-> — Martin Fowler
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&category=programming)
 
 </div>
